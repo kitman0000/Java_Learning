@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Java_multithreading.iml" filepath="$PROJECT_DIR$/Java_multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_dynamic_load.iml" filepath="$PROJECT_DIR$/Java_dynamic_load.iml" />
     </modules>
   </component>
 </project>
